@@ -1,3 +1,2 @@
-#StudentStocks
-
-##A P2P student loan application
+StudentStocks
+-A P2P student loan application
